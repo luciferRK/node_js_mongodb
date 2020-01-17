@@ -1,0 +1,11 @@
+status code
+201 insert
+200 success
+404 not found
+400 internal error
+500 unknown error
+204 delete
+401 unauthorised
+403 forbidden
+409 conflict
+202 accepted
